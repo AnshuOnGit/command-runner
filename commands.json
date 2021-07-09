@@ -1,2 +1,52 @@
-[{"command":"java -jar C:\\Users\\Ankumar\\dev\\myjar",
-"folderPath": "C:\\Users\\Ankumar"}]
+[
+	{
+		"service" : "config-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-config-manager\\github\\saas-platform-ms-config-manager\\impl\\target\\config-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "notification-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-notification-manager\\github\\saas-platform-ms-notification-manager\\impl\\target\\notification-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "product-catalog",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-product-catalog\\github\\saas-platform-ms-product-catalog\\impl\\target\\platform-service-product-catalog-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "tenant-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-tenant-manager\\github\\saas-platform-ms-tenant-manager\\impl\\target\\platform-service-tenant-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "authentication-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-authentication-manager\\github\\saas-platform-ms-authentication-manager\\impl\\target\\authentication-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "authorization-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-authorization-manager\\github\\saas-platform-ms-authorization-manager\\impl\\target\\platform-service-authorization-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "wfo-user-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-wfo-ms-user-manager\\github\\saas-wfo-ms-user-manager\\impl\\target\\wfo-service-user-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "user-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-user-manager\\github\\saas-platform-ms-user-manager\\impl\\target\\user-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "access-key-manager",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-access-key-manager\\github\\saas-platform-ms-access-key-manager\\impl\\target\\access-key-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	},
+	{
+		"service" : "hierarchy-manager-service",
+		"command": "C:\\Users\\ankumar\\dev\\wfosaas\\code\\saas-platform-ms-hierarchy-manager\\github\\saas-platform-ms-hierarchy-manager\\impl\\target\\saas-platform-ms-hierarchy-manager-impl-1.0.0-SNAPSHOT.jar",
+		"folderPath": "C:\\Users\\ankumar\\dev\\wfosaas\\logs"
+	}
+]

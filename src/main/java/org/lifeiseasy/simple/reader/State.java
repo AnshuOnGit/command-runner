@@ -16,7 +16,6 @@ public class State {
 	
     public void loadRecords() {
     	String configFilePath = System.getProperty("configFile");
-    	System.out.println(configFilePath);
     	File file = new File(configFilePath);
     	
     	

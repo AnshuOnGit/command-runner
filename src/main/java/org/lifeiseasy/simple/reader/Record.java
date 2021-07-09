@@ -4,6 +4,13 @@ public class Record {
 	
 	private String command;
 	private String folderPath;
+	private String service;
+	public String getService() {
+		return service;
+	}
+	public void setService(String service) {
+		this.service = service;
+	}
 	public String getCommand() {
 		return command;
 	}
